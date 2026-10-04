@@ -12,5 +12,6 @@ public class Day2 {
         // sc.nextDouble();  //double
         // sc.next();        //word
         // sc.nextLine();    //one line 
+        sc.close();
     }
 }
