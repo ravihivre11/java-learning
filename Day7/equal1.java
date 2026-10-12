@@ -1,5 +1,5 @@
 package Day7;
-public class main {
+public class equal1 {
     public static void main (String [] args){
         String name = "ravi";
         String name2 = "ravi";
